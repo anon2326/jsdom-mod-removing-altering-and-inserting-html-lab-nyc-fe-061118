@@ -2,6 +2,3 @@
 main.remove();
 /* Create your new element here and assign it to newHeader */
 var newHeader = document.createElement('h1');
-var textnode = document.createTextNode("(your name) is the champion!");
-newHeader.appendChild(textnode);
-newHeader.setAttribute("id", "victory");
